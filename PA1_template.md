@@ -12,7 +12,7 @@ This report is to fufill the requiremnets set by Peer Assessment 1, which is par
 
 
 ### Loading and preprocessing the data
-First, I will load the data, fetching it from the internet, unzipping it, and the reading it into memory using **read.csv()**. Then I will change the date format to POSIXct.
+First, I will load the data, fetching it from the internet, unzipping it, and then reading it into memory using **read.csv()**. Next, I will change the date format to POSIXct.
 
 
 ```r
